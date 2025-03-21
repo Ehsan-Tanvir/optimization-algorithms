@@ -1,4 +1,5 @@
 # Code for Gauss Jordan Algorithm Simplex Maximization problem
+
 # Create a matrix with specific values
 M<-100
 rows<-3
