@@ -1,4 +1,4 @@
-# Optimization Algorithms
+# optimization-algorithms
 
 ## Overview  
 This repository contains implementations of various **Operations Research** algorithms using **R** for **optimization, decision-making, and resource allocation** problems in logistics, economics, and engineering.
@@ -14,7 +14,7 @@ This repository contains implementations of various **Operations Research** algo
 ### Steps  
 1. Clone the repository:
    ```sh
-   git clone https://github.com/Ehsan-Tanvir/Optimization-Algorithms.git
+   git clone https://github.com/Ehsan-Tanvir/optimization-algorithms.git
    ```
 2. Open the project in **RStudio**.
 3. Run the respective script to execute the algorithms.
