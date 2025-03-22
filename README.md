@@ -1,4 +1,4 @@
-# Operations Research Algorithms in R
+# Optimization Algorithms
 
 ## Overview  
 This repository contains implementations of various **Operations Research** algorithms using **R** for **optimization, decision-making, and resource allocation** problems in logistics, economics, and engineering.
